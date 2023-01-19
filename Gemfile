@@ -1,13 +1,7 @@
-# frozen_string_literal: true
+source 'https://rubygems.org'
 
-source "https://rubygems.org"
+gem "jekyll", "~> 4.3" # installed by `gem jekyll`
+# gem "webrick"        # required when using Ruby >= 3 and Jekyll <= 4.2.2
 
-git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
-
-# gem "rails"
-
-gem "jekyll", "~> 4.3"
-
-gem "wdm", "~> 0.1.1"
-
-gem "eventmachine", "~> 1.2"
+gem "just-the-docs", "0.4.0.rc4" # currently the latest pre-release
+# gem "just-the-docs"            # the latest release - currently 0.3.3

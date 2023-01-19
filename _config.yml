@@ -1,3 +1,8 @@
-collections:
-  authors:
-    output: true
+title: Comment Anywhere
+description: Comment Anywhere design documents and progress reports.
+theme: just-the-docs
+
+url: https://just-the-docs.github.io
+
+aux_links:
+  Website Repository: https://github.com/comment-anything/comment-anything.github.io
