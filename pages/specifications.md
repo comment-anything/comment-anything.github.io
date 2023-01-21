@@ -4,4 +4,4 @@ title: Specifications
 nav_order: 3
 ---
 
-[Download the Comment Anywhere Specifications Document (pdf)](../assets/pdfs/CommentAnywhere-specifications.pdf)
+[Download the Comment Anywhere Specifications Document (pdf)]({{site.url}}/assets/pdfs/CommentAnywhere-specifications.pdf)
