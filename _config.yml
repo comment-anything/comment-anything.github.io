@@ -2,7 +2,10 @@ title: Comment Anywhere
 description: Comment Anywhere design documents and progress reports.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://comment-anything.github.io
+
+logo: /assets/images/CA-Logo-with-text.png
+favicon_ico: /assets/images/favicon.ico
 
 aux_links:
   Website Repository: https://github.com/comment-anything/comment-anything.github.io
