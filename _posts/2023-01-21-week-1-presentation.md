@@ -4,4 +4,8 @@ author: Luke
 title: Week 1 Presentation
 ---
 
-### This is a placeholder for the Week 1 Presentation by Luke
+### Week 1 Progress Report
+
+[Progress Report Presentation]({{site.url}}/assets/pptx/progress-week-1.pptx)
+
+[Progress Report PDF]({{site.url}}/assets/pdfs/progress-week-1.pdf)
