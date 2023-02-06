@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem "jekyll", github: "jekyll/jekyll", ref: "refs/pull/9248/head"
+gem "jekyll", "~> 4.3"
 # gem "webrick"        # required when using Ruby >= 3 and Jekyll <= 4.2.2
 
 gem "just-the-docs", "0.4.0.rc4" # currently the latest pre-release

@@ -12,9 +12,11 @@ When we want to customize the theme, we should reference the [Github documentati
 
 You need to have [Ruby](https://www.ruby-lang.org/en/downloads/) installed to test the site locally. 
 
-- fork the repository to your own GitHub account. If you've already forked the repository, use GitHub to sync your version with whatever is current on main.
 - clone your fork locally if you don't have it with `git clone https://github.com/your-name/comment-anything.github.io.git`.
-- Otherwise, make sure it's updated locally with `git pull`.
+- create a branch if necessary with `git branch yourname`
+    - if you have a branch, go to it on GitHub and sync it with master
+- checkout to your branch with `git checkout yourname`
+- Make sure your branch is updated locally with `git pull`.
 - Create a new markdown (*.md) file in the _posts folder. The name of the file should be `YYYY-MM-DD-title.md` where YYYY-MM-DD is the date and title is the name of the post.
 - Add [YAML front matter](https://assemble.io/docs/YAML-front-matter.html) to the top of your .md file. It should include values for layout, author, and title. For example: 
 
