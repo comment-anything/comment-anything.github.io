@@ -11,7 +11,7 @@ The following chart describes the implementation timeline for Comment Anywhere f
 The project will be turned in on April 21st, 2023 and we will present on April 28th, 2023.
 
 
-![gantt chart timeline for comment anywhere]({{site.url}}/assets/images/Gantt_Chart.JPG)
+![gantt chart timeline for comment anywhere]({{site.url}}/assets/images/Gantt_Chart.png)
 [Download the Comment Anywhere Gantt chart pdf]({{site.url}}/assets/pdfs/Gantt_Chart.pdf)
 
 ## Gantt Chart tasks, detailed explanations :
