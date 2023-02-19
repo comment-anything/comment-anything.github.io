@@ -31,7 +31,7 @@ The first video is the implementation of "ExtractPath" which extracts a domain a
 
 The second video is code to initialize a Page object and populate it with comments from the database. I had to think about how to transform database rows into Server-Client communication entities.
 
-{% include video.html content="2022-02-17-Initializepage.mp4" %}
+{% include video.html content="2022-02-17-InitializePage.mp4" %}
 
 ### New Comments video
 
