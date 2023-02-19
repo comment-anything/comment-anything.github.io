@@ -2,9 +2,8 @@
 layout: post
 author: Karl
 title: Week 2 Update
+brief: Creating the back end skeleton, setting up the database and unit tests.
 ---
-
-_Creating the back end skeleton, setting up the database and unit tests_
 
 ### Week 2 Progress Report
 
