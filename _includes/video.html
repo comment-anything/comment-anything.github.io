@@ -1,5 +1,37 @@
 
+
+{% if video_styles != true %}
+<style id="vidstyle">
+    @media only screen and (max-width: 400px) {
+        video {
+            width : 200px;
+        }
+    }
+    @media only screen and (max-width: 600px) {
+        video {
+            width : 300px;
+        }
+    }
+    @media only screen and (min-width: 800px) {
+        video {
+            width : 500px;
+        }
+    }
+    @media only screen and (min-width: 1000px) {
+        video {
+            width : 700px;
+        }
+    }
+    video {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+</style>
+    {% assign video_styles = true %}
+{% endif %}
+
 <video controls width="400">
     <source src="{{site.url}}/assets/videos/{{include.content}}" type="video/mp4">
-
 </video>
