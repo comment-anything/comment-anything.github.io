@@ -15,10 +15,13 @@ brief: Moderator window and communication entities.
 
 ### Modcontrollers Part 1
 
+Music credit [Seren1tyy - Future Disco](https://soundcloud.com/seren1tyy/future-disco?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing), used with permission.
+
 {% include video.html content="2022-03-08-Modcontrollers.mp4" %}
 
 ### Modcontrollers Part 2
 
+Music credit [Seren1tyy - Sunset Cigarette](https://soundcloud.com/seren1tyy/sunset-cigarette?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing), used with permission.
 {% include video.html content="2023-03-12-Modcontrollers-1.mp4" %}
 
 
