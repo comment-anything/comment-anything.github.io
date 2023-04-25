@@ -9,7 +9,7 @@ brief: The final report, an overview of the software architecture and a demo.
 
 # Final Report
 
-[Progress Report Presentation]({{site.url}}/assets/pptx/final-presentation-rough2.pptx)
+[Progress Report Presentation]({{site.url}}/assets/pptx/final-presentation-rough3.pptx)
 
 # Demo Video
 
