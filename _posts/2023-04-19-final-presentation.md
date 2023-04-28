@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Karl
-title: Final Update (in progress)
+title: Final Update
 brief: The final report, an overview of the software architecture and a demo.
 ---
 
@@ -9,7 +9,7 @@ brief: The final report, an overview of the software architecture and a demo.
 
 # Final Report
 
-[Progress Report Presentation]({{site.url}}/assets/pptx/final-presentation-rough3.pptx)
+[Progress Report Presentation]({{site.url}}/assets/pptx/CA-presentation-Luke-And-Karl-Edits.pptx)
 
 # Demo Video
 
